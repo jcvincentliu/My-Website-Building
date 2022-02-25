@@ -1,15 +1,15 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Juncheng (Vincent) Liu"
+image: "self-picture.png"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/vincent-liu-79075315a/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "liujcv00048@email.com"
 output:
   postcards::trestles
 ---
@@ -25,13 +25,17 @@ Times Magazine.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Massachusetts Institute of Technology** | Chicago, IL
 
-Ph.D. in Computer Science | September 2009 - May 2014
+M.S. in Computational Analysis and Public Policy | September 2021 - June 2023
 
-**The University of California, Berkeley** | Berkeley, CA
+**The University of Minnesota, Twin Cities** | Twin Cities, MN
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Sociology of Law, Criminology, and Deviance | September 2017 - May 2021
+B.A. in Statistics | September 2017 - May 2021
+Minor in Political Science | September 2017 - May 2021
+DirecTrack to Teaching | September 2017 - May 2021
+
 
 ## Experience
 
