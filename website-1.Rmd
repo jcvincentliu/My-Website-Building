@@ -1,0 +1,19 @@
+---
+title: "Website"
+author: "Vincent Liu"
+date: "2/25/2022"
+output: html_document
+---
+
+```yaml
+output:
+  postcards::trestles
+```
+
+```{r}
+rmarkdown::render("index.Rmd")
+```
+
+```{r}
+usethis::use_github_pages(branch = "main", path = "/")
+```
