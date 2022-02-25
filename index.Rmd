@@ -5,40 +5,44 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/vincent-liu-79075315a/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/JunchenVincent"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/jcvincentliu"
   - label: Email
     url: "liujcv00048@email.com"
 output:
   postcards::trestles
 ---
  
+ 
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Vincent is a first year MS-Computational Analysis and Public Policy student at the University of Chicago with demonstrated interests in fields, such as criminal justice policy, k12 education, survey analysis, data visualizations. Since undergrad, he has been believing the power of minority and worked hard for social and criminal justice. He dreams for the day where social science rules public policies. He is also a dedicated heavy metal and hard rock lover.
+
 
 ## Education
 
-**Massachusetts Institute of Technology** | Chicago, IL
+**University of Chicago** | Chicago, IL
 
 M.S. in Computational Analysis and Public Policy | September 2021 - June 2023
 
 **The University of Minnesota, Twin Cities** | Twin Cities, MN
 
 B.S. in Sociology of Law, Criminology, and Deviance | September 2017 - May 2021
+
 B.A. in Statistics | September 2017 - May 2021
+
 Minor in Political Science | September 2017 - May 2021
+
 DirecTrack to Teaching | September 2017 - May 2021
 
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Department of Computational Social Science at U Chicago** | Workshop Facilitator | September 2021 - now
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Breakthrough Twin Cities** | Teaching Fellow | June 2020 - August 2020
+
+**Juvenile Supervision Center** | Intern | September 2019 - March 2020
+
+**Innocent Technologies** | Program and Evaluations Intern | June 2019 - August 2019
