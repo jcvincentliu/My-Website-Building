@@ -17,7 +17,7 @@ output:
  
 ## Bio
 
-Vincent is a first year MS-Computational Analysis and Public Policy student at the University of Chicago with demonstrated interests in fields, such as criminal justice policy, k12 education, survey analysis, data visualizations. Since undergrad, he has been believing the power of minority and worked hard for social and criminal justice. He dreams for the day where social science rules public policies. He is also a dedicated heavy metal and hard rock lover.
+Vincent is a first-year MS-Computational Analysis and Public Policy (MS-CAPP) student at the University of Chicago with demonstrated interests in criminal justice policy, k12 education, survey analysis, data visualizations, and machine learning. Since undergrad, he has been believing the power of minority and activated for social and criminal justice. He dreams for the day where social science reins the research and practice of public policies. He is also a dedicated and incurable heavy metal and hard rock lover. His favorite band of all time is Metallica because the band's songs always give him power and energies. He loves saying "Life without energy can not be called life.". 
 
 
 ## Education
@@ -38,6 +38,8 @@ DirecTrack to Teaching | September 2017 - May 2021
 
 
 ## Experience
+
+**Smart Decarceration Project at Crown School of Social Works** | Research Assistant | January 2022 - now
 
 **Department of Computational Social Science at U Chicago** | Workshop Facilitator | September 2021 - now
 
